@@ -1,6 +1,6 @@
-cd events-backend
-npm ci
-npx ts-node-dev src/server.ts
+`cd events-backend`<br>
+`npm ci`
 
-cd events-frontend
-npm ci
+`npx ts-node-dev src/server.ts`<br>
+`cd events-frontend`<br>
+`npm ci`
